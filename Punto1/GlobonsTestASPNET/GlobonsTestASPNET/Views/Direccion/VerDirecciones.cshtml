@@ -1,0 +1,45 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutGeneral.cshtml";
+    @model List<GlobonsTestASPNET.Models.BD.Direccion>
+}
+
+<link href="~/Content/datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="~/Content/datatables/css/responsive.dataTables.min.css" rel="stylesheet" />
+
+<div class="col-lg-10 col-md-10 col-sm-offset-1">
+    <table id="dtDirecciones" class="display responsive nowrap" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Calle</th>
+                <th>#</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var direccion in Model)
+            {
+                <tr>
+                    <td>@direccion.calle @direccion.numero</td>
+                    <td><a href="~/Direccion/EditarDireccion/@direccion.idDireccion">Editar</a></td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>
+    @section scripts{
+
+
+        <script src="~/Content/datatables/js/dataTables.responsive.min.js"></script>
+        <script src="~/Content/datatables/js/jquery.dataTables.min.js"></script>
+
+        <script>
+            $(document).ready(function () {
+
+                $('#dtDirecciones').DataTable();
+
+            });
+
+        </script>
+    }

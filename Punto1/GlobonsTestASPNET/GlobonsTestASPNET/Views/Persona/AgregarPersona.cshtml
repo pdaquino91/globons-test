@@ -1,0 +1,128 @@
+﻿
+@{
+    string mensaje = "";
+    string mensajeError = "";
+    string errorFechaNacimiento = "";
+    string errorDni = "";
+
+    if (ViewBag.Mensaje != null)
+    {
+        mensaje = ViewBag.Mensaje;
+    }
+    if (ViewBag.MensajeError != null)
+    {
+        mensajeError = ViewBag.MensajeError;
+    }
+    if (ViewBag.ErrorFechaNacimiento != null)
+    {
+        errorFechaNacimiento = ViewBag.ErrorFechaNacimiento;
+    }
+    if (ViewBag.ErrorDni != null)
+    {
+        errorDni = ViewBag.ErrorDni;
+    }
+    List<GlobonsTestASPNET.Models.BD.Direccion> ListaDirecciones = ViewBag.ListaDirecciones;
+
+    Layout = "~/Views/Shared/_LayoutGeneral.cshtml";
+    @model GlobonsTestASPNET.Models.BD.Persona
+
+    var fechaNacimiento = new System.DateTime();
+
+}
+<section class="ml-addresses-section fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;" id="top">
+    <h1 class="ml-addresses-main-title ">Agregar Persona</h1>
+    <h2 class="ml-addresses-main-subtitle"></h2>
+    <form class="ui-form" id="addresses-form" action="AgregarPersona" name="addresses-form" method="post">
+        <div class="ml-addresses-card">
+            <fieldset class="ml-addresses-fieldset">
+                <legend class="ml-addresses-hidden">Dirección</legend>
+                <div class="u-clearfix">
+
+                    <div class="ml-addresses-grid ml-addresses-grid--first-column">
+                        <div class="ui-form__row" id="divMail">
+                            <label for="street" class="ui-form__label">Nombre</label>
+                            @Html.TextBoxFor(x => x.nombre, new { @class = "ui-form__input", maxlength = "50", placeholder = "", id = "nombre" })
+
+                            <p class="txt-rojo">@Html.ValidationMessageFor(x => x.nombre)</p>
+
+
+                        </div>
+                    </div>
+
+                    <div class="ml-addresses-grid ml-addresses-grid--second-column">
+                        <div class="ui-form__row">
+                            <label for="street" class="ui-form__label">Apellido</label>
+                            @Html.TextBoxFor(x => x.apellido, new { @class = "ui-form__input", maxlength = "50", placeholder = "", id = "apellido" })
+
+                            <p class="txt-rojo">@Html.ValidationMessageFor(x => x.apellido)</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="u-clearfix">
+
+                    <div class="ml-addresses-grid ml-addresses-grid--first-column">
+                        <div class="ui-form__row" id="divMail">
+                            <label for="street" class="ui-form__label">DNI</label>
+                            @Html.TextBoxFor(x => x.numeroDocumento, new { @class = "ui-form__input", maxlength = "50", placeholder = "", id = "numeroDocumento" })
+
+                            <p class="txt-rojo">@Html.ValidationMessageFor(x => x.numeroDocumento)</p>
+
+                            <p class="txt-rojo">@errorDni</p>
+                        </div>
+                    </div>
+
+                    <div class="ml-addresses-grid ml-addresses-grid--second-column">
+                        <div class="ui-form__row">
+                            <label for="street" class="ui-form__label">Fecha de Nacimiento</label>
+
+                            @Html.TextBox("fechaNacimiento", fechaNacimiento, new { @class = "ui-form__input", type = "date"})
+
+                            <p class="txt-rojo">@Html.ValidationMessageFor(x => x.fechaNacimiento)</p>
+
+                            <p class="txt-rojo">@errorFechaNacimiento</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="u-clearfix">
+                    <div class="ml-addresses-grid ml-addresses-grid--first-column">
+                        <div class="ui-form__row ">
+                            <label for="street" class="ui-form__label">Rubro</label>
+                            @Html.DropDownListFor(x => x.direccion, new SelectList(ListaDirecciones, "idDireccion", "calle"), new { @class = "ui-form__input select" })
+                            <p class="txt-rojo">@Html.ValidationMessageFor(x => x.direccion)</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ml-addresses-actions ml-addresses-actions--align-left">
+                    <div>
+                        @mensaje
+                        @mensajeError
+                    </div>
+                </div>
+
+
+
+                <div class="ml-addresses-actions ml-addresses-actions--align-left">
+                    <button class="ui-button ui-button--primary" id="enviarRegistro">Aceptar</button>
+                    <a id="cancelButton" href="/home/index" class="ui-button ui-button--tertiary">Cancelar</a>
+                </div>
+
+            </fieldset>
+        </div>
+
+
+    </form>
+
+
+</section>
+
+
+
+
+

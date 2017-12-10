@@ -1,0 +1,21 @@
+﻿.fondoceleste{
+background-color: #0184FE !important;
+}
+
+.urlmenu{
+font-weight: bold !important;
+font-size: 18px !important;
+color:lightgreen !important;
+}
+
+.titulomenu{
+font-weight: bold !important;
+font-size: 27px !important;
+color:white !important;
+}
+
+.txt-rojo {
+    color: red !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+}

@@ -1,0 +1,77 @@
+﻿
+@{
+    string mensaje = "";
+    string mensajeError = "";
+
+    if (@ViewBag.Mensaje != null)
+    {
+        mensaje = ViewBag.Mensaje;
+    }
+
+    if (@ViewBag.MensajeError != null)
+    {
+        mensajeError = ViewBag.MensajeError;
+    }
+
+    Layout = "~/Views/Shared/_LayoutGeneral.cshtml";
+    @model GlobonsTestASPNET.Models.BD.Direccion
+}
+<section class="ml-addresses-section fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;" id="top">
+    <h1 class="ml-addresses-main-title ">Agregar Direccion</h1>
+    <h2 class="ml-addresses-main-subtitle"></h2>
+    <form class="ui-form" id="addresses-form" action="AgregarDireccion" name="addresses-form" method="post">
+        <div class="ml-addresses-card">
+            <fieldset class="ml-addresses-fieldset">
+                <legend class="ml-addresses-hidden">Dirección</legend>
+                <div class="u-clearfix">
+
+                    <div class="ml-addresses-grid ml-addresses-grid--first-column">
+                        <div class="ui-form__row" id="divMail">
+                            <label for="street" class="ui-form__label">Calle</label>
+                            @Html.TextBoxFor(x => x.calle, new { @class = "ui-form__input", maxlength = "50", placeholder = "", id = "calle" })
+
+                            <p class="txt-rojo">@Html.ValidationMessageFor(x => x.calle)</p>
+
+
+                        </div>
+                    </div>
+
+                    <div class="ml-addresses-grid ml-addresses-grid--second-column">
+                        <div class="ui-form__row">
+                            <label for="street" class="ui-form__label">Numeracion</label>
+                                @Html.TextBoxFor(x => x.numero, new { @class = "ui-form__input", maxlength = "5", placeholder = "", id = "calle" })
+
+                                <p class="txt-rojo">@Html.ValidationMessageFor(x => x.numero)</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+                <div class="ml-addresses-actions ml-addresses-actions--align-left">
+                        <div>
+                            @mensaje
+                            @mensajeError
+                        </div>
+                </div>
+
+
+
+                <div class="ml-addresses-actions ml-addresses-actions--align-left">
+                    <button class="ui-button ui-button--primary" id="enviarRegistro">Aceptar</button>
+                    <a id="cancelButton" href="/home/index" class="ui-button ui-button--tertiary">Cancelar</a>
+                </div>
+
+            </fieldset>
+        </div>
+
+
+    </form>
+
+
+</section>
+
+
+

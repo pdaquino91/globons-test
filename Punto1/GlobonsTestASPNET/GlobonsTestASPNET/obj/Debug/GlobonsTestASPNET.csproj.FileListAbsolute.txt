@@ -1,0 +1,112 @@
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\ApplicationInsights.config
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\csc.exe
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\System.Collections.Immutable.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\System.Reflection.Metadata.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\vbc.exe
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\VBCSCompiler.exe
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\VBCSCompiler.exe.config
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\GlobonsTestASPNET.dll.config
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\GlobonsTestASPNET.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\GlobonsTestASPNET.pdb
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.SqlServer.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.DependencyCollector.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.Web.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.WindowsServer.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.ApplicationInsights.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.Web.Infrastructure.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Helpers.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Mvc.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Razor.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Deployment.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Razor.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.SqlServer.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.DependencyCollector.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.Web.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.WindowsServer.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.ApplicationInsights.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Razor.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Deployment.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Razor.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Helpers.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Mvc.xml
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Razor.resources.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Webpages.resources.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Helpers.resources.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Mvc.resources.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\obj\Debug\GlobonsTestASPNET.dll
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\obj\Debug\GlobonsTestASPNET.pdb
+E:\Examen Globons\GlobonsTestASPNET\GlobonsTestASPNET\obj\Debug\GlobonsTestASPNET.csprojResolveAssemblyReference.cache
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\ApplicationInsights.config
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\csc.exe
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\vbc.exe
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\VBCSCompiler.exe
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\GlobonsTestASPNET.dll.config
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\GlobonsTestASPNET.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\GlobonsTestASPNET.pdb
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.SqlServer.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.Web.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.Web.Infrastructure.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Helpers.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Mvc.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Razor.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Deployment.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Razor.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\EntityFramework.SqlServer.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.Web.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.ApplicationInsights.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Razor.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Deployment.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Webpages.Razor.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Helpers.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\System.Web.Mvc.xml
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Razor.resources.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Webpages.resources.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Helpers.resources.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\bin\es\System.Web.Mvc.resources.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\obj\Debug\GlobonsTestASPNET.csprojResolveAssemblyReference.cache
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\obj\Debug\GlobonsTestASPNET.dll
+C:\globons-test\Punto1\GlobonsTestASPNET\GlobonsTestASPNET\obj\Debug\GlobonsTestASPNET.pdb

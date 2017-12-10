@@ -1,0 +1,54 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutGeneral.cshtml";
+    @model List<GlobonsTestASPNET.Models.BD.Persona>
+}
+
+<link href="~/Content/datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="~/Content/datatables/css/responsive.dataTables.min.css" rel="stylesheet" />
+
+<div class="col-lg-10 col-md-10 col-sm-offset-1">
+    <table id="dtPersonas" class="display responsive nowrap" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>DNI</th>
+                <th>Fecha de nacimiento</th>
+                <th>Direccion</th>
+                <th>#</th>
+                <th>#</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var persona in Model)
+            {
+                <tr>
+                    <td>@persona.nombre @persona.apellido</td>
+                    <td>@persona.numeroDocumento</td>
+                    <td>@persona.fechaNacimiento.ToString("dd/MM/yyyy")</td>
+                    <td>@persona.Direccion1.calle @persona.Direccion1.numero</td>
+                    <td><a href="~/Persona/EditarPersona/@persona.idPersona">Editar</a></td>
+                    <td><a href="~/Persona/EliminarPersona/@persona.idPersona">Eliminar</a></td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>
+    @section scripts{
+
+
+        <script src="~/Content/datatables/js/dataTables.responsive.min.js"></script>
+        <script src="~/Content/datatables/js/jquery.dataTables.min.js"></script>
+
+        <script>
+            $(document).ready(function () {
+
+                $('#dtPersonas').DataTable();
+
+            });
+
+        </script>
+    }

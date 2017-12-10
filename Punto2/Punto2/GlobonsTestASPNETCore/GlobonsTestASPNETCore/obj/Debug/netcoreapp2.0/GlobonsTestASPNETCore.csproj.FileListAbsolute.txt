@@ -1,0 +1,11 @@
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\obj\Debug\netcoreapp2.0\GlobonsTestASPNETCore.csprojResolveAssemblyReference.cache
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\obj\Debug\netcoreapp2.0\GlobonsTestASPNETCore.csproj.CoreCompileInputs.cache
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\obj\Debug\netcoreapp2.0\GlobonsTestASPNETCore.AssemblyInfoInputs.cache
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\obj\Debug\netcoreapp2.0\GlobonsTestASPNETCore.AssemblyInfo.cs
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\bin\Debug\netcoreapp2.0\GlobonsTestASPNETCore.deps.json
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\bin\Debug\netcoreapp2.0\GlobonsTestASPNETCore.runtimeconfig.json
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\bin\Debug\netcoreapp2.0\GlobonsTestASPNETCore.runtimeconfig.dev.json
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\bin\Debug\netcoreapp2.0\GlobonsTestASPNETCore.dll
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\bin\Debug\netcoreapp2.0\GlobonsTestASPNETCore.pdb
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\obj\Debug\netcoreapp2.0\GlobonsTestASPNETCore.dll
+E:\GlobonsTest\Punto2\GlobonsTestASPNETCore\GlobonsTestASPNETCore\obj\Debug\netcoreapp2.0\GlobonsTestASPNETCore.pdb

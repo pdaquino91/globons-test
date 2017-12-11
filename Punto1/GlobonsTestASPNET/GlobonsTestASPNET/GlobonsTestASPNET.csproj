@@ -162,7 +162,9 @@
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
     <Content Include="scripts\jquery-1.10.2.min.js" />
+    <Content Include="scripts\jquery-3.2.1.slim.min.js" />
     <Content Include="scripts\modernizr-2.6.2.js" />
+    <Content Include="scripts\popper.min.js" />
     <Content Include="Web.config" />
     <Content Include="Views\Shared\_LayoutGeneral.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
